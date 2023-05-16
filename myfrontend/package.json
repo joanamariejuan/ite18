@@ -1,0 +1,27 @@
+{
+  "name": "myfrontend",
+  "version": "1.0.0",
+  "description": "Web App Using Electron anf API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joanamariejuan/j_frontend.git"
+  },
+  "author": "joanamariejuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joanamariejuan/j_frontend/issues"
+  },
+  "homepage": "https://github.com/joanamariejuan/j_frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "toastify-js": "^1.12.0"
+  }
+}
